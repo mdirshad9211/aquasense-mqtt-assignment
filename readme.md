@@ -102,7 +102,6 @@ mqtt-ingestion-system/
 
 ```bash
 git clone <repo-url>
-cd mqtt-ingestion-system
 ```
 
 ## 2. Install Dependencies
